@@ -1,0 +1,22 @@
+# 固件与 TF 素材 SHA-256
+
+使用已有封存身份记录核对本文件夹中新复制的文件；单位为字节。
+
+d07082fbdc9a1cd3589be67053de7be6846cc7b371ec7078ff24b71b4a69f478     658732  Firmware/A_board/A_scene_a.bit
+1e4bf3f997a8917c45456d7d76879be26ddef87a26e25ee938582c8ddae817b4     624831  Firmware/A_board/A_scene_a.bmk
+dd6400283f9409dffa252d2ce8b5aa2f2cdccda6aef4f3c1b8c3a6754771fa25     658732  Firmware/B_board/B_scene_b.bit
+4f17d38add6c187f35f2dc3611ffad4092f218e6e0e1185ac798712aed535f2c     624831  Firmware/B_board/B_scene_b.bmk
+2c290bf2fac8be31f1dd453d9b346b6c575f98e96f2ac05581a67d26620523dd     921654  TF_Card_Media/1.bmp
+618d1a8a85489684f004c79730d8b7de661d7cdbfb62c6433dbc1f21ba569bbb    1440054  TF_Card_Media/2.bmp
+396063b1e9cfbe96b9f2788d8fb1754319c74bef26d4d94347d470ebeadba2b9    2359350  TF_Card_Media/3.bmp
+d5581f99f9dcba060e94d522a423de7097162f4f1d8f931ce072558baa010ec5    2764854  TF_Card_Media/4.bmp
+3f6bc8279e1de4750dd0f104ec3a454c0efc3428897e1ddb2d357408a41ee087    3686454  TF_Card_Media/5.bmp
+bda9a2b5faf84ebfa53401e69a6d354db0f4c8b1b6485405aa78b14f27aaf7f0    6220854  TF_Card_Media/6.bmp
+4f2bb85e2656d7004e5c1a0ce48733fb41aba10d08577f3ff6db40ece4ea19e2    2764854  TF_Card_Media/7.bmp
+579d9b8da97598bd607c541b219c1e5b5dc4cd9daec1e82a2b989f924e739ca1    5760054  TF_Card_Media/8.bmp
+f18ff43ed9c8552215f00e9746624c31590797706d9b03a527806e9f82980e38    2359350  TF_Card_Media/9.bmp
+3e5790a4e1ead00b659d8159c62a2b48b2be95a468ffcc491d54b1a3daae1127     388854  TF_Card_Media/10.bmp
+62bbffa3fe9203aefff7bcc3c1ce5e62a5860ea2467e377a649fc6c17eccbdc4    2688044  TF_Card_Media/A01_ROCK.wav
+0033316a084f3e0ae1d77246861912593b8be9fe43c7085d8128766343e7d60f    2688044  TF_Card_Media/A02_CTRY.wav
+b4bfea516494e1d9b7c5b412b28caaf1ec580328682767dcc2fa49ac0577793d    2688044  TF_Card_Media/A03_JAZZ.wav
+3b9206f63365bab0b3220dc4e019d70492f129764d66458cb9d86923c0692651    2688044  TF_Card_Media/A04_FOLK.wav

@@ -1,0 +1,4 @@
+`define ATLAS_SOURCE_CRC 32'h64717f3c
+`define ATLAS_BASE_CRC 32'h5a3f101e
+`define ATLAS_BG_CRC 32'h07dd9996
+`define ATLAS_FG_CRC 32'h89951c1e

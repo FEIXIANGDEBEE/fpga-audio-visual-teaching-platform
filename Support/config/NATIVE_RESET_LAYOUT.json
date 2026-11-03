@@ -1,0 +1,11 @@
+{
+  "maximum_group_sr_ports": 32,
+  "previous_group_sr_ports": 16,
+  "source": "analysis/sys_audio_rst",
+  "sink_ports": 3256,
+  "previous_buffers": 238,
+  "selected_buffers": 135,
+  "clock": "same SYS, no new clock/FF/cycle",
+  "electrical_acceptance": "All real setup/hold/recovery/removal >=0; no extra data false path",
+  "scope": "Physical reset distribution only; original16-port audit preserved for history"
+}
